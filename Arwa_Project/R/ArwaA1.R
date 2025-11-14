@@ -3,7 +3,20 @@
 # Author: Arwa Sheheryar | Date: Oct 2025
 # Goal: Explore BIN diversity; compare regions (NA vs EA)
 ###############################################################
-
+# 
+# Primary Author: Arwa Sheheryar
+#   - Wrote the original script, including data cleaning,
+#     visualization steps, and BIN analyses.
+#
+# Editor: Yumna Khan
+#   - Reviewed and revised the script for clarity, efficiency,
+#     and reproducibility. Improvements include simplifying the
+#     data cleaning workflow, updating coordinate parsing,
+#     removing redundant code and packages, reorganizing plot
+#     components, and adding the Jaccard similarity figure.
+#
+#
+#
 # ================================================================
 # RESEARCH QUESTION, MOTIVATION, AND STUDY TYPE
 # ---------------------------------------------------------------
