@@ -31,6 +31,7 @@ library(viridis) # colourblind-friendly palettes for ggplot
 library(iNEXT) # coverage-based diversity estimation
 library(maps) # simple world polygons for basemaps
 
+conflict_prefer("filter", "dplyr")
 
 theme_set(theme_light()) # consistent, clean plotting theme
 
